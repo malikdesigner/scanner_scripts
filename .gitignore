@@ -1,0 +1,6 @@
+client/node_modules/
+backend/node_modules/
+client/node_modules/.cache
+
+client/node_modules/.cache/default-development/index.pack.old
+client/node_modules/.cache/default-development/index.pack.old
