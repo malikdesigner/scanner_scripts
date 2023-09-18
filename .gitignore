@@ -4,3 +4,4 @@ client/node_modules/.cache
 
 client/node_modules/.cache/default-development/index.pack.old
 client/node_modules/.cache/default-development/index.pack.old
+node_modules
