@@ -22,7 +22,8 @@ server.listen(port, hostname, () => {
     cron.schedule('* * * * * *', () => {
         try {
             // Use execSync to run the command synchronously
-            const stdout = execSync('node scripts/articleZameen.js > backend.txt');
+            // const stdout = execSync('node scripts/articleZameen.js > backend.txt');
+            const stdout = execSync('node scripts/zameen.js ');
         } catch (error) {
             console.error(`Error: ${error.message}`);
         }
