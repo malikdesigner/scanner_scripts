@@ -74,6 +74,8 @@ function isValidPhoneNumber(text) {
 // Main function to execute the code and return values
 const city = process.argv.slice(2)[0];
 const propertyType = process.argv.slice(2)[1];
+const buyRent = process.argv.slice(2)[2];
+
 var amenities = city + propertyType + '.png';
 const main = async () => {
     const connection = mysql.createConnection(dbConfig);
@@ -188,6 +190,33 @@ await main(city, propertyType)
                             console.error(`Button city filter not found.`);
                         }
                     });
+                } catch (e) {
+                    console.error(e);
+                }
+                delay(3000)
+                try {
+                    // Use page.evaluate to click the button with a specific aria-label
+                    if(buyRent==0){
+                        await page.evaluate(() => {
+                            const buttons = document.querySelectorAll('button[aria-label="For sale"]');
+                            if (buttons.length > 0) {
+                                buttons[0].click();
+                            } else {
+                                console.error(`Button city filter not found.`);
+                            }
+                        });
+
+                    }
+                    else if(buyRent==1){
+                        await page.evaluate(() => {
+                            const buttons = document.querySelectorAll('button[aria-label="To rent"]');
+                            if (buttons.length > 0) {
+                                buttons[0].click();
+                            } else {
+                                console.error(`Button city filter not found.`);
+                            }
+                        });
+                    }
                 } catch (e) {
                     console.error(e);
                 }
@@ -494,7 +523,10 @@ await main(city, propertyType)
                             return Price;
                         })
                         var propertyPrice = Price + ' ' + currency;
-                        details['price'] = propertyPrice;
+                        if(!details['Price']){
+
+                            details['price'] = propertyPrice;
+                        }
                         const elements = await page.$('[aria-label="Gallery Dialog"] div div div div div');
                         try {
 
@@ -541,6 +573,7 @@ await main(city, propertyType)
                         var seconds = cur_date.getSeconds().toString();
                         console.log(details);
                         if (details) {
+                            details['city']=city;
                             console.log(' File is saved ' + save_path + hours + minutes + seconds + count + '.txt')
                             write2File(save_path + hours + minutes + seconds + count + '.txt', JSON.stringify(details), "overwrite");
                         }
