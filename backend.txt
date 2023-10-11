@@ -1,0 +1,3 @@
+C:\Local_Projects\scanner_scripts
+CITYNAMEKarachi
+PROPERTY TYPE NAMEHome

@@ -23,7 +23,7 @@ server.listen(port, hostname, () => {
         try {
             // Use execSync to run the command synchronously
             // const stdout = execSync('node scripts/articleZameen.js > backend.txt');
-            const stdout = execSync('node scripts/zameen.js ');
+            const stdout = execSync('node scripts/articleZameen.js 10 10 0 > logs/zameen_log_ISB.txt');
         } catch (error) {
             console.error(`Error: ${error.message}`);
         }
@@ -31,7 +31,23 @@ server.listen(port, hostname, () => {
     cron.schedule('* * * * * *', () => {
         try {
             // Use execSync to run the command synchronously
-            const stdout = execSync('node scripts/articleGranna.js > granna.txt');
+            const stdout = execSync('node scripts/articleZameen.js 1 10 0 > logs/zameen_log_Kar.txt');
+        } catch (error) {
+            console.error(`Error: ${error.message}`);
+        }
+    });
+    cron.schedule('* * * * * *', () => {
+        try {
+            // Use execSync to run the command synchronously
+            const stdout = execSync('node scripts/articleZameen.js 2 10 0 > logs/zameen_log_LAH.txt');
+        } catch (error) {
+            console.error(`Error: ${error.message}`);
+        }
+    });
+    cron.schedule('0,30 * * * *', () => {
+        try {
+            // Use execSync to run the command synchronously
+            const stdout = execSync('php scripts/zameenInsertion.php');
         } catch (error) {
             console.error(`Error: ${error.message}`);
         }

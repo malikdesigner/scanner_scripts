@@ -1,0 +1,935 @@
+SELECT name FROM tbl_propertytype WHERE id=10
+SELECT city_name FROM tbl_cities WHERE id=10
+Result: { cityName: 'Islamabad', propertyTypeName: '' }
+C:/Local_Projects/scanner_scripts/scripts/
+********
+CITYNAMEIslamabad
+PROPERTY TYPE NAME
+C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023
+C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/
+Step 1 - Opening Ad URL 1
+Opening url =https://www.zameen.com/
+current url is https://www.zameen.com/
+Using size:{"width":1360,"height":700} 1
+
+Waiting 30 seconds
+Waiting 10 seconds
+Applying filter
+/Property/north_nazimabad_north_nazimabad_-_block_d_looking_for_a_lower_portion_in_north_nazimabad_-_block_d-47468979-7212-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+300+Sq.+Yd.+Lower+Portion+of+PKR+4.5+Crore+for+sale+in+North+Nazimabad+-+Block+D%2C+North+Nazimabad%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47468979&type=phone_number&app_absent=0
++923003368034
+Looking For A Lower Portion In North Nazimabad - Block D
+Map
+[]
+{
+  Type: 'Lower Portion',
+  Price: 'PKR4.5 Crore',
+  Location: 'North Nazimabad, Karachi, Sindh',
+  'Bath(s)': '3',
+  Area: '300 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '3',
+  Added: '2023-10-08 02:39:59',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: "Portion For sale North Nazimabad Block d 300 yard brand new 3bed dd Ground floor with basement. Near five starBy choosing this Lower Portion, know that you're making a wise choice - one that you will later be proud of. A comfortable life awaits you with this property for sale, so don't miss out on this opportunity. If you're looking for property sized 2700 Square Feet, you're in the right place. Properties, right now, are at the best rates so a price of PKR Rs. 45,000,000 is reasonable when it comes to recently developed properties. With a serene neighbourhood, carpeted roads and a location like that of North Nazimabad - Block D, it is an opportunity that should not be missed. Find yourself a luxurious house in Karachi with great options available. Want to know more? Contact us.",
+  mainLink: 'https://www.zameen.com//Property/north_nazimabad_north_nazimabad_-_block_d_looking_for_a_lower_portion_in_north_nazimabad_-_block_d-47468979-7212-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+300+Sq.+Yd.+Lower+Portion+of+PKR+4.5+Crore+for+sale+in+North+Nazimabad+-+Block+D%2C+North+Nazimabad%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47468979&type=phone_number&app_absent=0',
+  phoneNumber: '+923003368034',
+  title: 'Looking For A Lower Portion In North Nazimabad - Block D',
+  subHeading: 'North Nazimabad - Block D, North Nazimabad, Karachi, Sindh',
+  images: []
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/202390239520.txt
+/Property/buffer_zone_bufferzone_-_sector_15-a_3_ready_to_buy_a_upper_portion_120_square_yards_in_karachi-47468971-8953-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+120+Sq.+Yd.+Upper+Portion+of+PKR+70+Lakh+for+sale+in+Buffer+Zone%2C+North+Karachi%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47468971&type=phone_number&app_absent=0
++923003368034
+Ready To Buy A Upper Portion 120 Square Yards In Karachi
+Map
+[]
+{
+  Type: 'Upper Portion',
+  Price: 'PKR70 Lakh',
+  Location: 'North Karachi, Karachi, Sindh',
+  'Bath(s)': '2',
+  Area: '120 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '2',
+  Added: '2023-10-08 02:39:31',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: 'Buffer zone SECTOR 15/A-3 Subleas 3rd floor Separate meters electricity and gas24 hours sweet water24 fit gali with Roof 2 bed lunge 120 yard demand 70 lac',
+  mainLink: 'https://www.zameen.com//Property/buffer_zone_bufferzone_-_sector_15-a_3_ready_to_buy_a_upper_portion_120_square_yards_in_karachi-47468971-8953-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+120+Sq.+Yd.+Upper+Portion+of+PKR+70+Lakh+for+sale+in+Buffer+Zone%2C+North+Karachi%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47468971&type=phone_number&app_absent=0',
+  phoneNumber: '+923003368034',
+  title: 'Ready To Buy A Upper Portion 120 Square Yards In Karachi',
+  subHeading: 'Bufferzone - Sector 15-A/3, Buffer Zone, North Karachi, Karachi, Sindh',
+  images: []
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/202390239521.txt
+/Property/north_nazimabad_north_nazimabad_-_block_j_looking_for_a_house_in_north_nazimabad_-_block_j-47468964-7218-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+400+Sq.+Yd.+House+of+PKR+5+Crore+for+sale+in+North+Nazimabad+-+Block+J%2C+North+Nazimabad%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47468964&type=phone_number&app_absent=0
++923003368034
+Looking For A House In North Nazimabad - Block J
+Map
+[]
+{
+  Type: 'House',
+  Price: 'PKR5 Crore',
+  Location: 'North Nazimabad, Karachi, Sindh',
+  'Bath(s)': '3',
+  Area: '400 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '3',
+  Added: '2023-10-08 02:39:08',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: 'Single Story House Is Available For SaleWest open3 bedroomsDrawing roomDining roomAttached bathAmerican kitchenIdeal locationPark facing60 ft roadIdeal location',
+  mainLink: 'https://www.zameen.com//Property/north_nazimabad_north_nazimabad_-_block_j_looking_for_a_house_in_north_nazimabad_-_block_j-47468964-7218-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+400+Sq.+Yd.+House+of+PKR+5+Crore+for+sale+in+North+Nazimabad+-+Block+J%2C+North+Nazimabad%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47468964&type=phone_number&app_absent=0',
+  phoneNumber: '+923003368034',
+  title: 'Looking For A House In North Nazimabad - Block J',
+  subHeading: 'North Nazimabad - Block J, North Nazimabad, Karachi, Sindh',
+  images: []
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/202390239522.txt
+/Property/gulistan_e_jauhar_gulistan-e-jauhar_-_block_13_flat_sale_leased_1st_floor_sweet_water_parking_boundary_wall_project-47510596-6837-1.html
+Amenities not found
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923323688656&text=Hi%2C+I+am+interested+in+your+83+Sq.+Yd.+Flat+of+PKR+63+Lakh+for+sale+in+Gulistan-e-Jauhar+-+Block+13%2C+Gulistan-e-Jauhar%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47510596&type=phone_number&app_absent=0
++923323688656
+Flat sale Leased 1st floor Sweet Water Parking Boundary wall project
+Map
+[]
+{
+  Type: 'Flat',
+  Price: 'PKR63 Lakh',
+  Location: 'Gulistan-e-Jauhar, Karachi, Sindh',
+  'Bath(s)': '2',
+  Area: '83 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '2',
+  Added: '2023-10-08 02:38:48',
+  amenities: '',
+  description: 'Flat For Sale2 bed lounchLeased750 Squre Feer1st floorLift with stand by generatorParkingSweet water No water issue No electricity loaddsadingNo gas loaddsadingMain road appartmentBoundary wall projectAll Aminites availableWell maintainBlock 13Gulistan-e-joharContact call & WhattupView Contact DetailWaseem Ahmed',
+  mainLink: 'https://www.zameen.com//Property/gulistan_e_jauhar_gulistan-e-jauhar_-_block_13_flat_sale_leased_1st_floor_sweet_water_parking_boundary_wall_project-47510596-6837-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923323688656&text=Hi%2C+I+am+interested+in+your+83+Sq.+Yd.+Flat+of+PKR+63+Lakh+for+sale+in+Gulistan-e-Jauhar+-+Block+13%2C+Gulistan-e-Jauhar%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47510596&type=phone_number&app_absent=0',
+  phoneNumber: '+923323688656',
+  title: 'Flat sale Leased 1st floor Sweet Water Parking Boundary wall project',
+  subHeading: 'Gulistan-e-Jauhar - Block 13, Gulistan-e-Jauhar, Karachi, Sindh',
+  images: []
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/202390239523.txt
+/Property/nazimabad_nazimabad_1_1400_square_feet_flat_for_grabs_in_nazimabad-47455266-7078-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+156+Sq.+Yd.+Flat+of+PKR+1.7+Crore+for+sale+in+Nazimabad+1%2C+Nazimabad%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47455266&type=phone_number&app_absent=0
++923003368034
+1400 Square Feet Flat For Grabs In Nazimabad
+Map
+[]
+{
+  Type: 'Flat',
+  Price: 'PKR1.7 Crore',
+  Location: 'Nazimabad, Karachi, Sindh',
+  'Bath(s)': '3',
+  Area: '156 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '3',
+  Added: '2023-10-08 02:38:20',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: 'United ApartmentBrand new flat1st floor flat3 bedroomsDrawing roomDining roomAttached bathAmerican kitchen2 GalleryLiftCar Parking',
+  mainLink: 'https://www.zameen.com//Property/nazimabad_nazimabad_1_1400_square_feet_flat_for_grabs_in_nazimabad-47455266-7078-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+156+Sq.+Yd.+Flat+of+PKR+1.7+Crore+for+sale+in+Nazimabad+1%2C+Nazimabad%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47455266&type=phone_number&app_absent=0',
+  phoneNumber: '+923003368034',
+  title: '1400 Square Feet Flat For Grabs In Nazimabad',
+  subHeading: 'Nazimabad 1, Nazimabad, Karachi, Sindh',
+  images: []
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/202390239524.txt
+/Property/buffer_zone_bufferzone_-_sector_15-a_1_get_an_attractive_house_in_karachi_under_rs_23500000-47455271-8951-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+120+Sq.+Yd.+House+of+PKR+2.35+Crore+for+sale+in+Buffer+Zone%2C+North+Karachi%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47455271&type=phone_number&app_absent=0
++923003368034
+Get An Attractive House In Karachi Under Rs. 23500000
+Map
+[]
+{
+  Type: 'House',
+  Price: 'PKR2.35 Crore',
+  Location: 'North Karachi, Karachi, Sindh',
+  'Bath(s)': '3',
+  Area: '120 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '3',
+  Added: '2023-10-08 02:37:56',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: 'Single Story +2 Rooms House for sale24x24 cornerWell maintainedMarble flooringPrime locationReasonable Price',
+  mainLink: 'https://www.zameen.com//Property/buffer_zone_bufferzone_-_sector_15-a_1_get_an_attractive_house_in_karachi_under_rs_23500000-47455271-8951-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+120+Sq.+Yd.+House+of+PKR+2.35+Crore+for+sale+in+Buffer+Zone%2C+North+Karachi%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47455271&type=phone_number&app_absent=0',
+  phoneNumber: '+923003368034',
+  title: 'Get An Attractive House In Karachi Under Rs. 23500000',
+  subHeading: 'Bufferzone - Sector 15-A/1, Buffer Zone, North Karachi, Karachi, Sindh',
+  images: []
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/202390239525.txt
+/Property/north_karachi_north_karachi_-_sector_11b_house_for_sale_in_karachi-47455276-7185-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+240+Sq.+Yd.+House+of+PKR+4.5+Crore+for+sale+in+North+Karachi+-+Sector+11B%2C+North+Karachi%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47455276&type=phone_number&app_absent=0
++92-3003368034
+House For sale In Karachi
+Map
+[]
+{
+  Type: 'House',
+  Price: 'PKR4.5 Crore',
+  Location: 'North Karachi, Karachi, Sindh',
+  'Bath(s)': '6',
+  Area: '240 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '6',
+  Added: '2023-10-08 02:37:28',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: 'Ground +1 house for sale150 ft roadNear Disco morBest location',
+  mainLink: 'https://www.zameen.com//Property/north_karachi_north_karachi_-_sector_11b_house_for_sale_in_karachi-47455276-7185-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+240+Sq.+Yd.+House+of+PKR+4.5+Crore+for+sale+in+North+Karachi+-+Sector+11B%2C+North+Karachi%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47455276&type=phone_number&app_absent=0',
+  phoneNumber: '+92-3003368034',
+  title: 'House For sale In Karachi',
+  subHeading: 'North Karachi - Sector 11B, North Karachi, Karachi, Sindh',
+  images: []
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/202390239526.txt
+/Property/north_nazimabad_north_nazimabad_-_block_n_house_for_sale_in_rs_90000000-47454425-7222-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+400+Sq.+Yd.+House+of+PKR+9+Crore+for+sale+in+North+Nazimabad+-+Block+N%2C+North+Nazimabad%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47454425&type=phone_number&app_absent=0
++92-3003368034
+House For sale In Rs. 90000000
+Map
+[]
+{
+  Type: 'House',
+  Price: 'PKR9 Crore',
+  Location: 'North Nazimabad, Karachi, Sindh',
+  'Bath(s)': '6',
+  Area: '400 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '6',
+  Added: '2023-10-08 02:37:04',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: 'Ground +1 house 6 bedroomsDrawing rooms Dining rooms Attached bathAmerican kitchenIdeal location',
+  mainLink: 'https://www.zameen.com//Property/north_nazimabad_north_nazimabad_-_block_n_house_for_sale_in_rs_90000000-47454425-7222-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+400+Sq.+Yd.+House+of+PKR+9+Crore+for+sale+in+North+Nazimabad+-+Block+N%2C+North+Nazimabad%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47454425&type=phone_number&app_absent=0',
+  phoneNumber: '+92-3003368034',
+  title: 'House For sale In Rs. 90000000',
+  subHeading: 'North Nazimabad - Block N, North Nazimabad, Karachi, Sindh',
+  images: []
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/202390239527.txt
+/Property/north_nazimabad_north_nazimabad_-_block_f_1500_square_yards_house_in_north_nazimabad_for_sale_at_good_location-47454407-7214-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+1%2C500+Sq.+Yd.+House+of+PKR+21+Crore+for+sale+in+North+Nazimabad+-+Block+F%2C+North+Nazimabad%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47454407&type=phone_number&app_absent=0
++92-3003368034
+1500 Square Yards House In North Nazimabad For sale At Good Location
+Map
+[]
+{
+  Type: 'House',
+  Price: 'PKR21 Crore',
+  Location: 'North Nazimabad, Karachi, Sindh',
+  'Bath(s)': '6',
+  Area: '1,500 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '6',
+  Added: '2023-10-08 02:36:35',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: 'Ground +1 houseWell maintained 6 bedrooms2 Drawing rooms2 Dining roomsAttached bathAmerican kitchen',
+  mainLink: 'https://www.zameen.com//Property/north_nazimabad_north_nazimabad_-_block_f_1500_square_yards_house_in_north_nazimabad_for_sale_at_good_location-47454407-7214-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+1%2C500+Sq.+Yd.+House+of+PKR+21+Crore+for+sale+in+North+Nazimabad+-+Block+F%2C+North+Nazimabad%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47454407&type=phone_number&app_absent=0',
+  phoneNumber: '+92-3003368034',
+  title: '1500 Square Yards House In North Nazimabad For sale At Good Location',
+  subHeading: 'North Nazimabad - Block F, North Nazimabad, Karachi, Sindh',
+  images: []
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/202390239528.txt
+/Property/north_nazimabad_north_nazimabad_-_block_d_house_in_north_nazimabad_-_block_d_sized_200_square_yards_is_available-47454415-7212-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+200+Sq.+Yd.+House+of+PKR+3.85+Crore+for+sale+in+North+Nazimabad+-+Block+D%2C+North+Nazimabad%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47454415&type=phone_number&app_absent=0
++92-3003368034
+House In North Nazimabad - Block D Sized 200 Square Yards Is Available
+Map
+[]
+{
+  Type: 'House',
+  Price: 'PKR3.85 Crore',
+  Location: 'North Nazimabad, Karachi, Sindh',
+  'Bath(s)': '-',
+  Area: '200 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '-',
+  Added: '2023-10-08 02:36:11',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: 'Demolish House Is Available For SaleGround +1 houseNear Tayyaba MasjidBest location',
+  mainLink: 'https://www.zameen.com//Property/north_nazimabad_north_nazimabad_-_block_d_house_in_north_nazimabad_-_block_d_sized_200_square_yards_is_available-47454415-7212-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923003368034&text=Hi%2C+I+am+interested+in+your+200+Sq.+Yd.+House+of+PKR+3.85+Crore+for+sale+in+North+Nazimabad+-+Block+D%2C+North+Nazimabad%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47454415&type=phone_number&app_absent=0',
+  phoneNumber: '+92-3003368034',
+  title: 'House In North Nazimabad - Block D Sized 200 Square Yards Is Available',
+  subHeading: 'North Nazimabad - Block D, North Nazimabad, Karachi, Sindh',
+  images: []
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/202390239529.txt
+/Property/d_h_a_dha_phase_7_500_yards_fully_maintained_bungalow_for_sale_phase_7-47510595-1484-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923222918281&text=Hi%2C+I+am+interested+in+your+500+Sq.+Yd.+House+of+PKR+9.25+Crore+for+sale+in+DHA+Phase+7%2C+DHA+Defence%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47510595&type=phone_number&app_absent=0
++92-3003368034
+500 YARDS FULLY MAINTAINED BUNGALOW FOR SALE PHASE 7
+Photos (14)
+14
+[
+  'https://media.zameen.com/thumbnails/235131529-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131530-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131531-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131532-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131533-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131534-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131535-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131536-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131537-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131538-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131539-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131540-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131541-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131542-800x600.webp'
+]
+{
+  Type: 'House',
+  Price: 'PKR9.25 Crore',
+  Location: 'DHA Defence, Karachi, Sindh',
+  'Bath(s)': '6',
+  Area: '500 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '5',
+  Added: '2023-10-08 02:35:45',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: '500 Yards Fully Maintained Bungalow For Sale, Prime Location of Phase 7 , Just Years 8 Old House but Fully Maintained Like New proper two unit1+3. STUDY Planning, Servant Room, Drawing and Dining, Kitchen, Lush GardenAmple Parking, 4 Spacious Bedrooms with Attached Washrooms,',
+  mainLink: 'https://www.zameen.com//Property/d_h_a_dha_phase_7_500_yards_fully_maintained_bungalow_for_sale_phase_7-47510595-1484-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923222918281&text=Hi%2C+I+am+interested+in+your+500+Sq.+Yd.+House+of+PKR+9.25+Crore+for+sale+in+DHA+Phase+7%2C+DHA+Defence%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47510595&type=phone_number&app_absent=0',
+  phoneNumber: '+92-3003368034',
+  title: '500 YARDS FULLY MAINTAINED BUNGALOW FOR SALE PHASE 7',
+  subHeading: 'DHA Phase 7, DHA Defence, Karachi, Sindh',
+  images: [
+    'https://media.zameen.com/thumbnails/235131529-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131530-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131531-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131532-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131533-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131534-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131535-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131536-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131537-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131538-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131539-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131540-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131541-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131542-800x600.webp'
+  ]
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/2023902395210.txt
+/Property/malir_cantonment_askari_5_prime_location_park_facing_3bed_dd_flat_sector_f_askari_5-47510583-6655-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923342938264&text=Hi%2C+I+am+interested+in+your+289+Sq.+Yd.+Flat+of+PKR+3.8+Crore+for+sale+in+Malir+Cantonment%2C+Cantt%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47510583&type=phone_number&app_absent=0
++92-3003368034
+Prime location Park facing 3Bed DD Flat Sector F Askari 5
+Map
+[]
+{
+  Type: 'Flat',
+  Price: 'PKR3.8 Crore',
+  Location: 'Cantt, Karachi, Sindh',
+  'Bath(s)': '3',
+  Area: '289 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '3',
+  Added: '2023-10-08 02:33:59',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: 'for sale apartment at Askari 5 Sector F2600 sq feetG+9 Building3 Bedroomsdrawing dining roomTV loungekitchen and servant roomwashing areaemergency exitstore roompark facing',
+  mainLink: 'https://www.zameen.com//Property/malir_cantonment_askari_5_prime_location_park_facing_3bed_dd_flat_sector_f_askari_5-47510583-6655-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923342938264&text=Hi%2C+I+am+interested+in+your+289+Sq.+Yd.+Flat+of+PKR+3.8+Crore+for+sale+in+Malir+Cantonment%2C+Cantt%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47510583&type=phone_number&app_absent=0',
+  phoneNumber: '+92-3003368034',
+  title: 'Prime location Park facing 3Bed DD Flat Sector F Askari 5',
+  subHeading: 'Askari 5, Malir Cantonment, Cantt, Karachi, Sindh',
+  images: []
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/2023902395211.txt
+/Property/malir_cantonment_askari_5_3_bed_dd_flat_sector_f_askari_5_malir_cantt-47510577-6655-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923342938264&text=Hi%2C+I+am+interested+in+your+289+Sq.+Yd.+Flat+of+PKR+3.8+Crore+for+sale+in+Malir+Cantonment%2C+Cantt%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47510577&type=phone_number&app_absent=0
++92-3003368034
+3 Bed DD Flat Sector F Askari 5 Malir Cantt
+Map
+[]
+{
+  Type: 'Flat',
+  Price: 'PKR3.8 Crore',
+  Location: 'Cantt, Karachi, Sindh',
+  'Bath(s)': '3',
+  Area: '289 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '3',
+  Added: '2023-10-08 02:29:30',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: 'for sale apartment at Askari 5 malir cantt Karachisector F 2600 sq feetG+9 Building3 Bed roomsdrawing dining roomTV loungekitchen and servant roompark facingstand by liftwashing areaemergency exit',
+  mainLink: 'https://www.zameen.com//Property/malir_cantonment_askari_5_3_bed_dd_flat_sector_f_askari_5_malir_cantt-47510577-6655-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923342938264&text=Hi%2C+I+am+interested+in+your+289+Sq.+Yd.+Flat+of+PKR+3.8+Crore+for+sale+in+Malir+Cantonment%2C+Cantt%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47510577&type=phone_number&app_absent=0',
+  phoneNumber: '+92-3003368034',
+  title: '3 Bed DD Flat Sector F Askari 5 Malir Cantt',
+  subHeading: 'Askari 5, Malir Cantonment, Cantt, Karachi, Sindh',
+  images: []
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/2023902395212.txt
+/Property/d_h_a_dha_phase_6_500_yard_fully_maintained_bungaiow_phase_6_for_sale-47510566-1483-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923222918281&text=Hi%2C+I+am+interested+in+your+500+Sq.+Yd.+House+of+PKR+10.75+Crore+for+sale+in+DHA+Phase+6%2C+DHA+Defence%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47510566&type=phone_number&app_absent=0
++92-3003368034
+500 YARD FULLY MAINTAINED BUNGAIOW PHASE 6 FOR SALE
+Photos (21)
+21
+[
+  'https://media.zameen.com/thumbnails/235131211-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131212-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131213-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131214-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131215-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131216-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131217-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131218-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131219-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131220-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131221-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131222-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131223-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131224-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131225-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131226-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131227-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131228-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131229-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131230-800x600.webp',
+  'https://media.zameen.com/thumbnails/235131231-800x600.webp'
+]
+{
+  Type: 'House',
+  Price: 'PKR10.75 Crore',
+  Location: 'DHA Defence, Karachi, Sindh',
+  'Bath(s)': '6',
+  Area: '500 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '6',
+  Added: '2023-10-08 02:26:00',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: '500 Yards Fully Maintained Bungalow For Sale, Prime Location of Phase 6 KHYBAN SHUJAT NEW WEST OPEN , Just Years 13 Old House but Fully Maintained Like New proper two unit4+2 Planning, Servant Room, Drawing and Dining, Kitchen, Lush GardenAmple Parking, 4 Spacious Bedrooms with Attached Washrooms,',
+  mainLink: 'https://www.zameen.com//Property/d_h_a_dha_phase_6_500_yard_fully_maintained_bungaiow_phase_6_for_sale-47510566-1483-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923222918281&text=Hi%2C+I+am+interested+in+your+500+Sq.+Yd.+House+of+PKR+10.75+Crore+for+sale+in+DHA+Phase+6%2C+DHA+Defence%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47510566&type=phone_number&app_absent=0',
+  phoneNumber: '+92-3003368034',
+  title: '500 YARD FULLY MAINTAINED BUNGAIOW PHASE 6 FOR SALE',
+  subHeading: 'DHA Phase 6, DHA Defence, Karachi, Sindh',
+  images: [
+    'https://media.zameen.com/thumbnails/235131211-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131212-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131213-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131214-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131215-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131216-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131217-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131218-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131219-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131220-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131221-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131222-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131223-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131224-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131225-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131226-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131227-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131228-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131229-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131230-800x600.webp',
+    'https://media.zameen.com/thumbnails/235131231-800x600.webp'
+  ]
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/2023902395213.txt
+/Property/bahria_town_karachi_bahria_town_-_precinct_31_3_beds_235_yard_brand_new_ultra_modern_villa_for_sale_located_in_precinct_31_bahria_town_karachi-46053708-10045-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923240469712&text=Hi%2C+I+am+interested+in+your+235+Sq.+Yd.+House+of+PKR+1.35+Crore+for+sale+in+Bahria+Town+-+Precinct+31%2C+Bahria+Town+Karachi%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F46053708&type=phone_number&app_absent=0
++92-3003368034
+3 Beds 235 Yard Brand New Ultra Modern Villa For Sale Located In Precinct 31 Bahria Town Karachi
+Photos (9)
+9
+[
+  'https://media.zameen.com/thumbnails/224367441-800x600.webp',
+  'https://media.zameen.com/thumbnails/224367444-800x600.webp',
+  'https://media.zameen.com/thumbnails/224367447-800x600.webp',
+  'https://media.zameen.com/thumbnails/224367451-800x600.webp',
+  'https://media.zameen.com/thumbnails/224367455-800x600.webp',
+  'https://media.zameen.com/thumbnails/224367457-800x600.webp',
+  'https://media.zameen.com/thumbnails/224367461-800x600.webp',
+  'https://media.zameen.com/thumbnails/224367465-800x600.webp',
+  'https://media.zameen.com/thumbnails/224367440-800x600.webp'
+]
+{
+  Type: 'House',
+  Price: 'PKR1.35 Crore',
+  Location: 'Bahria Town Karachi, Karachi, Sindh',
+  'Bath(s)': '-',
+  Area: '235 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '-',
+  Added: '2023-10-08 02:23:41',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: "3 Beds 235 Brand New Ultra Modern Villa For Sale Located In Precinct 31 Bahria Town Karachithe House Here Is Constructed With The Best Materials And Comes With A Reasonable Price. House That Checks All Boxes Is Not Easy To Find, So Schedule An Appointment Today. Your Search For 2115 Square Feet Property Is Now Over. Check Out Listings Now. Take Our Word And Book Your House Today, As You Won't Get A Better Rs. 13,500,000 Than This. You Can Become A Proud Owner Of Property In Bahria Town - Precinct 31 If You Only Time Your Decision Early. Looking To Get The Best Real Estate Value In Karachi? Let Us Help You. what More This Property Has To Tell You Is Written Below. the Property Comes With A Private Drawing And Dining Room For When You Have Company. the Open Dining Room That Comes With This Property Is Perfect For Large Family Gatherings. you Can Leave Your Contact Details For Our Representative To Call You.",
+  mainLink: 'https://www.zameen.com//Property/bahria_town_karachi_bahria_town_-_precinct_31_3_beds_235_yard_brand_new_ultra_modern_villa_for_sale_located_in_precinct_31_bahria_town_karachi-46053708-10045-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923240469712&text=Hi%2C+I+am+interested+in+your+235+Sq.+Yd.+House+of+PKR+1.35+Crore+for+sale+in+Bahria+Town+-+Precinct+31%2C+Bahria+Town+Karachi%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F46053708&type=phone_number&app_absent=0',
+  phoneNumber: '+92-3003368034',
+  title: '3 Beds 235 Yard Brand New Ultra Modern Villa For Sale Located In Precinct 31 Bahria Town Karachi',
+  subHeading: 'Bahria Town - Precinct 31, Bahria Town Karachi, Karachi, Sindh',
+  images: [
+    'https://media.zameen.com/thumbnails/224367441-800x600.webp',
+    'https://media.zameen.com/thumbnails/224367444-800x600.webp',
+    'https://media.zameen.com/thumbnails/224367447-800x600.webp',
+    'https://media.zameen.com/thumbnails/224367451-800x600.webp',
+    'https://media.zameen.com/thumbnails/224367455-800x600.webp',
+    'https://media.zameen.com/thumbnails/224367457-800x600.webp',
+    'https://media.zameen.com/thumbnails/224367461-800x600.webp',
+    'https://media.zameen.com/thumbnails/224367465-800x600.webp',
+    'https://media.zameen.com/thumbnails/224367440-800x600.webp'
+  ]
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/2023902395214.txt
+/Property/bahria_town_karachi_bahria_paradise_luxury_500_sq_yards_bahria_paradise_villa_for_sale_located_in_bahria_town_karachi-46053731-11458-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923240469712&text=Hi%2C+I+am+interested+in+your+500+Sq.+Yd.+House+of+PKR+4+Crore+for+sale+in+Bahria+Paradise%2C+Bahria+Town+Karachi%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F46053731&type=phone_number&app_absent=0
++92-3003368034
+Luxury 500 Sq Yards Bahria Paradise Villa For Sale Located In Bahria Town Karachi
+Photos (10)
+10
+[
+  'https://media.zameen.com/thumbnails/224367526-800x600.webp',
+  'https://media.zameen.com/thumbnails/224367521-800x600.webp',
+  'https://media.zameen.com/thumbnails/224367544-800x600.webp',
+  'https://media.zameen.com/thumbnails/224367542-800x600.webp',
+  'https://media.zameen.com/thumbnails/224367536-800x600.webp',
+  'https://media.zameen.com/thumbnails/224367533-800x600.webp',
+  'https://media.zameen.com/thumbnails/224367530-800x600.webp',
+  'https://media.zameen.com/thumbnails/224367529-800x600.webp',
+  'https://media.zameen.com/thumbnails/224367528-800x600.webp',
+  'https://media.zameen.com/thumbnails/224367547-800x600.webp'
+]
+{
+  Type: 'House',
+  Price: 'PKR4 Crore',
+  Location: 'Bahria Town Karachi, Karachi, Sindh',
+  'Bath(s)': '-',
+  Area: '500 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '-',
+  Added: '2023-10-08 02:23:37',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: "LUXURY 500 SQ YARDS BAHRIA PARADISE VILLA FOR SALE LOCATED IN BAHRIA TOWN KARACHIA well designed House in a posh location is all you need to live your best life. Buying a home is a long term investment decision so make sure you make the right one. We have many property options to help you decide. 4500 Square Feet is best to plan your dream home, so what are you waiting for. It's a good idea to invest in property if you can as PKR Rs. 40,000,000 is quite reasonable for a house, given the market. The right property for you in Bahria Paradise is right within your reach. Live your dream that awaits you in Karachi. You can find out more about the property below. Now you can plan mealtimes with more detail with a separate dining room that comes with this House. The drawing room with this House is naturally well-lit and you can enhance it further with dcor. Contact us for further details or queries pertaining to this real estate development.",
+  mainLink: 'https://www.zameen.com//Property/bahria_town_karachi_bahria_paradise_luxury_500_sq_yards_bahria_paradise_villa_for_sale_located_in_bahria_town_karachi-46053731-11458-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923240469712&text=Hi%2C+I+am+interested+in+your+500+Sq.+Yd.+House+of+PKR+4+Crore+for+sale+in+Bahria+Paradise%2C+Bahria+Town+Karachi%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F46053731&type=phone_number&app_absent=0',
+  phoneNumber: '+92-3003368034',
+  title: 'Luxury 500 Sq Yards Bahria Paradise Villa For Sale Located In Bahria Town Karachi',
+  subHeading: 'Bahria Paradise, Bahria Town Karachi, Karachi, Sindh',
+  images: [
+    'https://media.zameen.com/thumbnails/224367526-800x600.webp',
+    'https://media.zameen.com/thumbnails/224367521-800x600.webp',
+    'https://media.zameen.com/thumbnails/224367544-800x600.webp',
+    'https://media.zameen.com/thumbnails/224367542-800x600.webp',
+    'https://media.zameen.com/thumbnails/224367536-800x600.webp',
+    'https://media.zameen.com/thumbnails/224367533-800x600.webp',
+    'https://media.zameen.com/thumbnails/224367530-800x600.webp',
+    'https://media.zameen.com/thumbnails/224367529-800x600.webp',
+    'https://media.zameen.com/thumbnails/224367528-800x600.webp',
+    'https://media.zameen.com/thumbnails/224367547-800x600.webp'
+  ]
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/2023902395215.txt
+/Property/bahria_town_precinct_11_bahria_town_-_precinct_11-b_with_key_brand_new_5_marla_house_for_sale_located_in_precinct_11-b_bahria_town_karachi-46211128-10021-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923240469712&text=Hi%2C+I+am+interested+in+your+125+Sq.+Yd.+House+of+PKR+1.53+Crore+for+sale+in+Bahria+Town+-+Precinct+11%2C+Bahria+Town+Karachi%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F46211128&type=phone_number&app_absent=0
++92-3003368034
+With Key Brand New 5 Marla House For Sale Located In Precinct 11-b Bahria Town Karachi
+Photos (11)
+11
+[
+  'https://media.zameen.com/thumbnails/226226165-800x600.webp',
+  'https://media.zameen.com/thumbnails/226226169-800x600.webp',
+  'https://media.zameen.com/thumbnails/226226167-800x600.webp',
+  'https://media.zameen.com/thumbnails/226226166-800x600.webp',
+  'https://media.zameen.com/thumbnails/226226170-800x600.webp',
+  'https://media.zameen.com/thumbnails/226226171-800x600.webp',
+  'https://media.zameen.com/thumbnails/226226172-800x600.webp',
+  'https://media.zameen.com/thumbnails/226226164-800x600.webp',
+  'https://media.zameen.com/thumbnails/226226173-800x600.webp',
+  'https://media.zameen.com/thumbnails/226226174-800x600.webp',
+  'https://media.zameen.com/thumbnails/226226176-800x600.webp'
+]
+{
+  Type: 'House',
+  Price: 'PKR1.53 Crore',
+  Location: 'Bahria Town Karachi, Karachi, Sindh',
+  'Bath(s)': '-',
+  Area: '125 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '-',
+  Added: '2023-10-08 02:23:36',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: "WITH KEY BRAND NEW 5 MARLA HOUSE FOR SALE LOCATED IN PRECINCT 11-B BAHRIA TOWN KARACHIIf you're looking for a House for investment purposes, you're in the right place. Fully-furnished spaces for sale don't become available easily and if that's what you want, your search can definitely end here. The property of 1125 Square Feet is an ideal option in Bahria Town - Precinct 11-B. PKR Rs. 15,300,000 is quite an ideal demand for the kind of property you are looking for. Bahria Town - Precinct 11-B has many lucrative investment opportunities. Your home in the busy city of Karachi could be the gateway to a new and improved life. Features of property as follow. A luxurious drawing room like this will surely inspire awe in your guests. This House comes with a large dining area where you can entertain your guests with comfort. Your property search can end right here, so give us a call and we'll do the rest.",
+  mainLink: 'https://www.zameen.com//Property/bahria_town_precinct_11_bahria_town_-_precinct_11-b_with_key_brand_new_5_marla_house_for_sale_located_in_precinct_11-b_bahria_town_karachi-46211128-10021-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923240469712&text=Hi%2C+I+am+interested+in+your+125+Sq.+Yd.+House+of+PKR+1.53+Crore+for+sale+in+Bahria+Town+-+Precinct+11%2C+Bahria+Town+Karachi%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F46211128&type=phone_number&app_absent=0',
+  phoneNumber: '+92-3003368034',
+  title: 'With Key Brand New 5 Marla House For Sale Located In Precinct 11-b Bahria Town Karachi',
+  subHeading: 'Bahria Town - Precinct 11-B, Bahria Town - Precinct 11, Bahria Town Karachi, Karachi, Sindh',
+  images: [
+    'https://media.zameen.com/thumbnails/226226165-800x600.webp',
+    'https://media.zameen.com/thumbnails/226226169-800x600.webp',
+    'https://media.zameen.com/thumbnails/226226167-800x600.webp',
+    'https://media.zameen.com/thumbnails/226226166-800x600.webp',
+    'https://media.zameen.com/thumbnails/226226170-800x600.webp',
+    'https://media.zameen.com/thumbnails/226226171-800x600.webp',
+    'https://media.zameen.com/thumbnails/226226172-800x600.webp',
+    'https://media.zameen.com/thumbnails/226226164-800x600.webp',
+    'https://media.zameen.com/thumbnails/226226173-800x600.webp',
+    'https://media.zameen.com/thumbnails/226226174-800x600.webp',
+    'https://media.zameen.com/thumbnails/226226176-800x600.webp'
+  ]
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/2023902395216.txt
+/Property/bahria_town_precinct_2_bahria_town_-_quaid_villas_own_a_house_in_200_square_yards_karachi-46635150-10011-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923240469712&text=Hi%2C+I+am+interested+in+your+200+Sq.+Yd.+House+of+PKR+2.35+Crore+for+sale+in+Bahria+Town+-+Precinct+2%2C+Bahria+Town+Karachi%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F46635150&type=phone_number&app_absent=0
++92-3003368034
+Own A House In 200 Square Yards Karachi
+Photos (15)
+15
+[
+  'https://media.zameen.com/thumbnails/228795640-800x600.webp',
+  'https://media.zameen.com/thumbnails/228795641-800x600.webp',
+  'https://media.zameen.com/thumbnails/228795642-800x600.webp',
+  'https://media.zameen.com/thumbnails/228795643-800x600.webp',
+  'https://media.zameen.com/thumbnails/228795644-800x600.webp',
+  'https://media.zameen.com/thumbnails/228795645-800x600.webp',
+  'https://media.zameen.com/thumbnails/228795646-800x600.webp',
+  'https://media.zameen.com/thumbnails/228795647-800x600.webp',
+  'https://media.zameen.com/thumbnails/228795648-800x600.webp',
+  'https://media.zameen.com/thumbnails/228795649-800x600.webp',
+  'https://media.zameen.com/thumbnails/228795650-800x600.webp',
+  'https://media.zameen.com/thumbnails/228795651-800x600.webp',
+  'https://media.zameen.com/thumbnails/228795652-800x600.webp',
+  'https://media.zameen.com/thumbnails/228795653-800x600.webp',
+  'https://media.zameen.com/thumbnails/228795654-800x600.webp'
+]
+{
+  Type: 'House',
+  Price: 'PKR2.35 Crore',
+  Location: 'Bahria Town Karachi, Karachi, Sindh',
+  'Bath(s)': '3',
+  Area: '200 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '3',
+  Added: '2023-10-08 02:23:38',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: "All your dreams can come true with the House which is available for sale now. The House for sale is a great deal considering it comes with many facilities. Don't miss out on these 200 Square Yards units. Avail a well-suited option today. This property at this price of Rs. 23,500,000 is surely a righ bargain. Take a look at the best property from Bahria Town - Quaid Villas in this page. The city of Karachi has everything you have been looking for. Know more about the property with the details given below. The community lawn near the House is a great place to host small functions. Cleanliness is ensured at all times through an effective waste disposal system. Setup the barbecue area at home, just the way you like and impress your guests. The property has an outdoor pool where one can swim to their heart's content. You can find a mosque near the House easily. Your kids can play to their heart's content in the play area adjoining the property. Make a wise investment decision with our experts waiting to help you. Call us today for detailed assessment and property advice.",
+  mainLink: 'https://www.zameen.com//Property/bahria_town_precinct_2_bahria_town_-_quaid_villas_own_a_house_in_200_square_yards_karachi-46635150-10011-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923240469712&text=Hi%2C+I+am+interested+in+your+200+Sq.+Yd.+House+of+PKR+2.35+Crore+for+sale+in+Bahria+Town+-+Precinct+2%2C+Bahria+Town+Karachi%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F46635150&type=phone_number&app_absent=0',
+  phoneNumber: '+92-3003368034',
+  title: 'Own A House In 200 Square Yards Karachi',
+  subHeading: 'Bahria Town - Quaid Villas, Bahria Town - Precinct 2, Bahria Town Karachi, Karachi, Sindh',
+  images: [
+    'https://media.zameen.com/thumbnails/228795640-800x600.webp',
+    'https://media.zameen.com/thumbnails/228795641-800x600.webp',
+    'https://media.zameen.com/thumbnails/228795642-800x600.webp',
+    'https://media.zameen.com/thumbnails/228795643-800x600.webp',
+    'https://media.zameen.com/thumbnails/228795644-800x600.webp',
+    'https://media.zameen.com/thumbnails/228795645-800x600.webp',
+    'https://media.zameen.com/thumbnails/228795646-800x600.webp',
+    'https://media.zameen.com/thumbnails/228795647-800x600.webp',
+    'https://media.zameen.com/thumbnails/228795648-800x600.webp',
+    'https://media.zameen.com/thumbnails/228795649-800x600.webp',
+    'https://media.zameen.com/thumbnails/228795650-800x600.webp',
+    'https://media.zameen.com/thumbnails/228795651-800x600.webp',
+    'https://media.zameen.com/thumbnails/228795652-800x600.webp',
+    'https://media.zameen.com/thumbnails/228795653-800x600.webp',
+    'https://media.zameen.com/thumbnails/228795654-800x600.webp'
+  ]
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/2023902395217.txt
+/Property/malir_cantonment_askari_5_for_sale_3_bed_dd_flat_sector_f_askari_5_g_9_building-47510565-6655-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923342938264&text=Hi%2C+I+am+interested+in+your+289+Sq.+Yd.+Flat+of+PKR+3.8+Crore+for+sale+in+Malir+Cantonment%2C+Cantt%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47510565&type=phone_number&app_absent=0
++92-3003368034
+For Sale 3 Bed DD Flat Sector F Askari 5 G+9 Building
+Map
+[]
+{
+  Type: 'Flat',
+  Price: 'PKR3.8 Crore',
+  Location: 'Cantt, Karachi, Sindh',
+  'Bath(s)': '3',
+  Area: '289 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '3',
+  Added: '2023-10-08 02:20:56',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: 'for sale apartment at Askari 5 sector F2600 sq feetG+9 Building9th floor( top Floor)3 bedroomsdrawing dining roomTV loungekitchen and servant roompark facingStand by liftwashing areaemergency exitstore roomelectric gas and water 24/7',
+  mainLink: 'https://www.zameen.com//Property/malir_cantonment_askari_5_for_sale_3_bed_dd_flat_sector_f_askari_5_g_9_building-47510565-6655-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923342938264&text=Hi%2C+I+am+interested+in+your+289+Sq.+Yd.+Flat+of+PKR+3.8+Crore+for+sale+in+Malir+Cantonment%2C+Cantt%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47510565&type=phone_number&app_absent=0',
+  phoneNumber: '+92-3003368034',
+  title: 'For Sale 3 Bed DD Flat Sector F Askari 5 G+9 Building',
+  subHeading: 'Askari 5, Malir Cantonment, Cantt, Karachi, Sindh',
+  images: []
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/2023902395218.txt
+/Property/north_nazimabad_north_nazimabad_-_block_k_flat_for_sale_block_k-47510537-7219-1.html
+Amenities not found
++92-3003368034
+Flat For Sale Block K
+Map
+[]
+{
+  Type: 'Flat',
+  Price: 'PKR50 Lakh',
+  Location: 'North Nazimabad, Karachi, Sindh',
+  'Bath(s)': '1',
+  Area: '89 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '2',
+  Added: '2023-10-08 02:15:24',
+  amenities: '',
+  description: '- Flat for Sale Block "K"- 1st Floor- 800 sq. ft - 2Bedrooms/Drawing Room/TV Lounge- 1 Bathroom Demand 50 lack',
+  mainLink: 'https://www.zameen.com//Property/north_nazimabad_north_nazimabad_-_block_k_flat_for_sale_block_k-47510537-7219-1.html',
+  phoneNumber: '+92-3003368034',
+  title: 'Flat For Sale Block K',
+  subHeading: 'North Nazimabad - Block K, North Nazimabad, Karachi, Sindh',
+  images: []
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/2023902395219.txt
+/Property/gulistan_e_jauhar_gulistan-e-jauhar_-_block_7_corner_house_for_sale_in_gulistan_e_jauhar_block_7-47510528-6831-1.html
+Amenities not found
++92-3003368034
+CORNER HOUSE FOR SALE IN GULISTAN E JAUHAR BLOCK 7
+Map
+[]
+{
+  Type: 'House',
+  Price: 'PKR6.6 Crore',
+  Location: 'Gulistan-e-Jauhar, Karachi, Sindh',
+  'Bath(s)': '6',
+  Area: '600 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '5',
+  Added: '2023-10-08 01:55:57',
+  amenities: '',
+  description: 'West OpenCorner600 sq yardsPlus Extra landAt Back of Main 200 feet dividing roadVip areaPeaceful atmosphere Owner Build houseLeasedFor further Details Contact : View Contact DetailHaseeb zahoor',
+  mainLink: 'https://www.zameen.com//Property/gulistan_e_jauhar_gulistan-e-jauhar_-_block_7_corner_house_for_sale_in_gulistan_e_jauhar_block_7-47510528-6831-1.html',
+  phoneNumber: '+92-3003368034',
+  title: 'CORNER HOUSE FOR SALE IN GULISTAN E JAUHAR BLOCK 7',
+  subHeading: 'Gulistan-e-Jauhar - Block 7, Gulistan-e-Jauhar, Karachi, Sindh',
+  images: []
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/2023902395220.txt
+/Property/askari_5_askari_5_-_sector_j_4bed_dd_flat_sector_j_askari_5_malir_cantt_3300_sq_feet-47510523-17289-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923342938264&text=Hi%2C+I+am+interested+in+your+367+Sq.+Yd.+Flat+of+PKR+4.75+Crore+for+sale+in+Malir+Cantonment%2C+Cantt%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47510523&type=phone_number&app_absent=0
++92-3003368034
+4Bed DD Flat Sector J Askari 5 malir cantt
+3300 sq feet
+Map
+[]
+{
+  Type: 'Flat',
+  Price: 'PKR4.75 Crore',
+  Location: 'Cantt, Karachi, Sindh',
+  'Bath(s)': '4',
+  Area: '367 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '4',
+  Added: '2023-10-08 01:56:27',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: 'for sale apartment at Askari 5sector Jmalir canttG+9 Building3300 sq feet4 Bedroomsdrawing dining roomTV loungekitchen and servant roomcar parkingwashing areaemergency exitstand by lift',
+  mainLink: 'https://www.zameen.com//Property/askari_5_askari_5_-_sector_j_4bed_dd_flat_sector_j_askari_5_malir_cantt_3300_sq_feet-47510523-17289-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923342938264&text=Hi%2C+I+am+interested+in+your+367+Sq.+Yd.+Flat+of+PKR+4.75+Crore+for+sale+in+Malir+Cantonment%2C+Cantt%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47510523&type=phone_number&app_absent=0',
+  phoneNumber: '+92-3003368034',
+  title: '4Bed DD Flat Sector J Askari 5 malir cantt\n3300 sq feet',
+  subHeading: 'Askari 5 - Sector J, Askari 5, Malir Cantonment, Cantt, Karachi, Sindh',
+  images: []
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/2023902395221.txt
+/Property/d_h_a_dha_phase_8_800_yard_brand_new_bungalow_with_basement_and_swimming_pool_sale-46402112-1485-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923022019530&text=Hi%2C+I+am+interested+in+your+800+Sq.+Yd.+House+of+PKR+27+Crore+for+sale+in+DHA+Phase+8%2C+DHA+Defence%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F46402112&type=phone_number&app_absent=0
++92-3003368034
+800 Yard Brand New Bungalow With Basement And Swimming Pool Sale
+Photos (21)
+21
+[
+  'https://media.zameen.com/thumbnails/226960192-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960204-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960205-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960206-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960207-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960208-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960209-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960210-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960211-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960203-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960202-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960201-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960193-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960194-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960195-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960196-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960197-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960198-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960199-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960200-800x600.webp',
+  'https://media.zameen.com/thumbnails/226960212-800x600.webp'
+]
+{
+  Type: 'House',
+  Price: 'PKR27 Crore',
+  Location: 'DHA Defence, Karachi, Sindh',
+  'Bath(s)': '6',
+  Area: '800 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '7',
+  Added: '2023-10-08 01:56:58',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: "800 yard 3+4 bedroom drawing dinning tv lounge with basement and swimming pool direct deal with party meeting Covered Area: 12000 sq feet (Approx) Your's desired House is up for sale. Don't miss this chance. Buying a home is a long term investment decision so make sure you make the right one. We have many property options to help you decide. If you're looking for 1000 Square Yards properties that fit your needs, here's what you need. The House you are looking for is at a price of PKR Rs. 355,000,000 so hurry up before you lose it. DHA Phase 8 is away from the hustle and bustle of the main city thus giving the peace of mind you need most. Looking to get the best real estate value in Karachi? Let us help you. Following are some details of the property. Feeling stressed? Take a dip in the Jacuzzi and you will be fine in no time. A luxurious drawing room like this will surelyinspire awe in your guests. Having double glazed windows in the Housecancels the outside noise. You can offer your prayers in the spacious mosque near the House. You can make arrangements for your next gettogether with your friends and family in the spacious lawn. Sauna is a great way to lose weight and with",
+  mainLink: 'https://www.zameen.com//Property/d_h_a_dha_phase_8_800_yard_brand_new_bungalow_with_basement_and_swimming_pool_sale-46402112-1485-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923022019530&text=Hi%2C+I+am+interested+in+your+800+Sq.+Yd.+House+of+PKR+27+Crore+for+sale+in+DHA+Phase+8%2C+DHA+Defence%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F46402112&type=phone_number&app_absent=0',
+  phoneNumber: '+92-3003368034',
+  title: '800 Yard Brand New Bungalow With Basement And Swimming Pool Sale',
+  subHeading: 'DHA Phase 8, DHA Defence, Karachi, Sindh',
+  images: [
+    'https://media.zameen.com/thumbnails/226960192-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960204-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960205-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960206-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960207-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960208-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960209-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960210-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960211-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960203-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960202-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960201-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960193-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960194-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960195-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960196-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960197-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960198-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960199-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960200-800x600.webp',
+    'https://media.zameen.com/thumbnails/226960212-800x600.webp'
+  ]
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/2023902395222.txt
+/Property/d_h_a_dha_phase_2_dha_phase_2_1000_yard_near_to_abu_baker_masjid_sarrounding_very_well_maintain-47411359-1479-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923022019530&text=Hi%2C+I+am+interested+in+your+1%2C000+Sq.+Yd.+House+of+PKR+25+Crore+for+sale+in+DHA+Phase+2%2C+DHA+Defence%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47411359&type=phone_number&app_absent=0
++92-3003368034
+Dha phase 2 1000 yard near to Abu Baker masjid sarrounding very well maintain
+Photos (8)
+8
+[
+  'https://media.zameen.com/thumbnails/234412454-800x600.webp',
+  'https://media.zameen.com/thumbnails/234412455-800x600.webp',
+  'https://media.zameen.com/thumbnails/234412456-800x600.webp',
+  'https://media.zameen.com/thumbnails/234412457-800x600.webp',
+  'https://media.zameen.com/thumbnails/234412458-800x600.webp',
+  'https://media.zameen.com/thumbnails/234412459-800x600.webp',
+  'https://media.zameen.com/thumbnails/234412460-800x600.webp',
+  'https://media.zameen.com/thumbnails/234412461-800x600.webp'
+]
+{
+  Type: 'House',
+  Price: 'PKR25 Crore',
+  Location: 'DHA Defence, Karachi, Sindh',
+  'Bath(s)': '6',
+  Area: '1,000 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '5',
+  Added: '2023-10-08 01:58:38',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: 'Dha phase 2 1000 yard Abu baker masjid location peaceful area nice location heighted Area 2+3 plus study room very well maintain huge and lush lawn tile flooring reasonable demand',
+  mainLink: 'https://www.zameen.com//Property/d_h_a_dha_phase_2_dha_phase_2_1000_yard_near_to_abu_baker_masjid_sarrounding_very_well_maintain-47411359-1479-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923022019530&text=Hi%2C+I+am+interested+in+your+1%2C000+Sq.+Yd.+House+of+PKR+25+Crore+for+sale+in+DHA+Phase+2%2C+DHA+Defence%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47411359&type=phone_number&app_absent=0',
+  phoneNumber: '+92-3003368034',
+  title: 'Dha phase 2 1000 yard near to Abu Baker masjid sarrounding very well maintain',
+  subHeading: 'DHA Phase 2, DHA Defence, Karachi, Sindh',
+  images: [
+    'https://media.zameen.com/thumbnails/234412454-800x600.webp',
+    'https://media.zameen.com/thumbnails/234412455-800x600.webp',
+    'https://media.zameen.com/thumbnails/234412456-800x600.webp',
+    'https://media.zameen.com/thumbnails/234412457-800x600.webp',
+    'https://media.zameen.com/thumbnails/234412458-800x600.webp',
+    'https://media.zameen.com/thumbnails/234412459-800x600.webp',
+    'https://media.zameen.com/thumbnails/234412460-800x600.webp',
+    'https://media.zameen.com/thumbnails/234412461-800x600.webp'
+  ]
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/2023902395223.txt
+/Property/d_h_a_dha_phase_8_dha_phase_viii_500_yard_slightly_used_bungalow_with_solar_system_installed-47268427-1485-1.html
+Screenshot saved as C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png
+WhatsApp URL: https://api.whatsapp.com/send/?phone=923022019530&text=Hi%2C+I+am+interested+in+your+500+Sq.+Yd.+House+of+PKR+12.5+Crore+for+sale+in+DHA+Phase+8%2C+DHA+Defence%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47268427&type=phone_number&app_absent=0
++92-3003368034
+Dha phase Viii 500 yard slightly used bungalow with solar system installed
+Photos (13)
+13
+[
+  'https://media.zameen.com/thumbnails/234477891-800x600.webp',
+  'https://media.zameen.com/thumbnails/233363660-800x600.webp',
+  'https://media.zameen.com/thumbnails/233363661-800x600.webp',
+  'https://media.zameen.com/thumbnails/233363663-800x600.webp',
+  'https://media.zameen.com/thumbnails/233363664-800x600.webp',
+  'https://media.zameen.com/thumbnails/234477892-800x600.webp',
+  'https://media.zameen.com/thumbnails/234477893-800x600.webp',
+  'https://media.zameen.com/thumbnails/234477894-800x600.webp',
+  'https://media.zameen.com/thumbnails/234477895-800x600.webp',
+  'https://media.zameen.com/thumbnails/234477896-800x600.webp',
+  'https://media.zameen.com/thumbnails/234477897-800x600.webp',
+  'https://media.zameen.com/thumbnails/234477898-800x600.webp',
+  'https://media.zameen.com/thumbnails/234477899-800x600.webp'
+]
+{
+  Type: 'House',
+  Price: 'PKR12.5 Crore',
+  Location: 'DHA Defence, Karachi, Sindh',
+  'Bath(s)': '6',
+  Area: '500 Sq. Yd.',
+  Purpose: 'For Sale',
+  'Bedroom(s)': '5',
+  Added: '2023-10-08 01:59:30',
+  amenities: 'C:/Local_Projects/scanner_scripts/scripts/export-data/8-10-2023/23952/1010.png',
+  description: "Dha 500 yard beautiful bungalow phase 8 2+3 bed with solar system installed west open Dha phase ii 500 yard brand new architect design with full basement and swimming pool 22 inverter installed 2+4 bedroom drawing dinnig tv lounge guard roon servant room plus maid room and laundry room lush green lawnCovered Area: 4500 sq feet (Approx) Your's desired House is up for sale. Don't miss this chance. Buying a home is a long term investment decision so make sure you make the right one. We have many property options to help you decide. If you're looking for 500 Square Yards properties that fit your needs, here's what you need. The House you are looking for is at a price of PKR Rs. 12.25 crore so hurry up before you lose it. DHA Phase 2 is away from the hustle and bustle of the main city thus giving the peace of mind you need most. Looking to get the best real estate value in Karachi? Let us help you. Following are some details of the property. Feeling stressed? Take a dip in the Jacuzzi and you will be fine in no time. A luxurious drawing room like this will surelyinspire awe in your guests. Having double glazed windows in the House",
+  mainLink: 'https://www.zameen.com//Property/d_h_a_dha_phase_8_dha_phase_viii_500_yard_slightly_used_bungalow_with_solar_system_installed-47268427-1485-1.html',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=923022019530&text=Hi%2C+I+am+interested+in+your+500+Sq.+Yd.+House+of+PKR+12.5+Crore+for+sale+in+DHA+Phase+8%2C+DHA+Defence%2C+Karachi.%0A%0ALink%3A+https%3A%2F%2Fwww.zameen.com%2Fpm%2F47268427&type=phone_number&app_absent=0',
+  phoneNumber: '+92-3003368034',
+  title: 'Dha phase Viii 500 yard slightly used bungalow with solar system installed',
+  subHeading: 'DHA Phase 8, DHA Defence, Karachi, Sindh',
+  images: [
+    'https://media.zameen.com/thumbnails/234477891-800x600.webp',
+    'https://media.zameen.com/thumbnails/233363660-800x600.webp',
+    'https://media.zameen.com/thumbnails/233363661-800x600.webp',
+    'https://media.zameen.com/thumbnails/233363663-800x600.webp',
+    'https://media.zameen.com/thumbnails/233363664-800x600.webp',
+    'https://media.zameen.com/thumbnails/234477892-800x600.webp',
+    'https://media.zameen.com/thumbnails/234477893-800x600.webp',
+    'https://media.zameen.com/thumbnails/234477894-800x600.webp',
+    'https://media.zameen.com/thumbnails/234477895-800x600.webp',
+    'https://media.zameen.com/thumbnails/234477896-800x600.webp',
+    'https://media.zameen.com/thumbnails/234477897-800x600.webp',
+    'https://media.zameen.com/thumbnails/234477898-800x600.webp',
+    'https://media.zameen.com/thumbnails/234477899-800x600.webp'
+  ]
+}
+ File is saved C:/Local_Projects/scanner_scripts/scripts/zameen/2023902395224.txt

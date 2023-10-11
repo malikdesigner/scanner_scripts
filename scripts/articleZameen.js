@@ -17,6 +17,7 @@ const dbConfig = {
 const getPropertyTypeName = (connection, propertyType) => {
     return new Promise((resolve, reject) => {
         const queryType = `SELECT name FROM tbl_propertytype WHERE id=${propertyType}`;
+        console.log(queryType)
         connection.query(queryType, (err, resultsType) => {
             if (err) {
                 reject(err);
@@ -32,6 +33,7 @@ const getPropertyTypeName = (connection, propertyType) => {
 const getCityName = (connection, city) => {
     return new Promise((resolve, reject) => {
         const queryCity = `SELECT city_name FROM tbl_cities WHERE id=${city}`;
+        console.log(queryCity)
         connection.query(queryCity, (err, resultsCity) => {
             if (err) {
                 reject(err);
@@ -114,7 +116,7 @@ await main(city, propertyType)
         propertyTypeName = result.propertyTypeName;
         //const jsonfile = require('jsonfile');
 
-        var current_path = process.cwd();
+        var current_path = "C:/Local_Projects/scanner_scripts/scripts/";
         console.log(current_path)
         //  var args = process.argv.slice(2)[0];
         //  var siteInfo = JSON.parse(filesystem.readFileSync(args, 'utf8'));
@@ -128,8 +130,8 @@ await main(city, propertyType)
         var showOnConsole = true;
 
 
-        var path = current_path + "/scripts/export-data/";
-        var save_path = current_path + "/scripts/zameen/";
+        var path = current_path + "export-data/";
+        var save_path = current_path + "zameen/";
 
         var currentUID = getUID();
         var cur_date = new Date();
@@ -155,7 +157,7 @@ await main(city, propertyType)
                 const browser = await puppeteer.launch({
                     'args': ['--disable-web-security', '--allow-http-screen-capture', '--allow-running-insecure-content', '--disable-features=site-per-process', '--no-sandbox'],
                     ignoreHTTPSErrors: true,
-                    'headless': false,
+                    'headless': true,
                     timeout: 10000,
                     slowMo: 250, // slow down by 250ms
                     devtools: false,
@@ -400,6 +402,7 @@ await main(city, propertyType)
                             details['amenities'] = path + amenities;
                             console.log('Screenshot saved as ' + path + amenities);
                         } else {
+                            details['amenities']='';
                             console.log("Amenities not found")
                         }
                         delay(4000)
@@ -568,13 +571,17 @@ await main(city, propertyType)
                             details['images'] = images;
                             console.log(images);
                         }
+                        var year = cur_date.getFullYear().toString();
+                        var month = cur_date.getMonth().toString();
+                        var day = cur_date.getDay().toString();
                         var hours = cur_date.getHours().toString();
                         var minutes = cur_date.getMinutes().toString();
                         var seconds = cur_date.getSeconds().toString();
                         console.log(details);
                         if (details) {
                             details['city']=city;
-                            console.log(' File is saved ' + save_path + hours + minutes + seconds + count + '.txt')
+                            details['buyRent']=buyRent;
+                            console.log(' File is saved ' + save_path +year+month+day+ hours + minutes + seconds + count + '.txt')
                             write2File(save_path + hours + minutes + seconds + count + '.txt', JSON.stringify(details), "overwrite");
                         }
                         count++;
